@@ -90,3 +90,6 @@ This project highlights **real-world ERP concepts** such as draft vs submitted w
 - Draft documents show **planning and review steps** before submission, simulating real business approvals.  
 - Submitted documents show **official posted records**, impacting inventory and accounting.  
 - PDFs are included for invoices to demonstrate **professional documentation**, while screenshots capture ERP interface steps and confirmations.
+
+## Live Demo
+Check out the live ERPNext system here: [My ERPNext Website](https://rrco-project.v.erpnext.com/desk)
